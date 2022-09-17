@@ -17,7 +17,7 @@ can end up in either the long or short leg of the portfolio, their impact depend
 long skewed stocks benefit, while those short lose. In a sample of core anomaly strategies, a skewness management strategy that seeks skewness in the long leg but avoids
 it in the short leg improves the average return by five to ten percent per year, while limiting downside risk as measured by strategy skewness.</p>
 
-<h2> Demand Risk in Supply Factors </h2>
+<h2> Demand Risk in Supply Factors? </h2>
   
 <p> This paper provides comprehensive tests for the presence of demand-side risks in investment and protability premiums. Consumption risk, intermediary risk, macroeconomic
 risk, and investor sentiment are all considered as potential demand-side drivers of return. Factors based on the consumption and macroeconomic risk models have only a
