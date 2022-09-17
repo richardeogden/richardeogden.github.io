@@ -6,5 +6,5 @@ author_profile: True
 ---
 
 
-<a href="/vita_09172022.pdf" download="ogden_vita">Download My CV</a>
+<a href="/Ogden_CV.pdf" download="Ogden_CV">Download My CV</a>
 
