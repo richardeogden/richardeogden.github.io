@@ -14,7 +14,7 @@ author_profile: True
 <h2> Instructor, The Ohio State University  </h2>
   
 <p> BUSFIN 4221: Investments </p>
-<a href="/syllabus_busfin4211_sp2021.pdf" download="Ogden_busfin_4221">Syllabus</a>
+<a href="/syllabus_busfin4221_sp2021.pdf" download="Ogden_busfin_4221">Syllabus</a>
   
 <p> </p>
   
