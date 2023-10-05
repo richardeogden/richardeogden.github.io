@@ -10,6 +10,10 @@ author_profile: True
 <html>
 <body>
 
+<h2> Instructor, Rowan University University </h2>
+  
+<p> FIN 04300: Principals of Finance (Fall 2023) </p>
+
 <h2> Instructor, The Ohio State University </h2>
   
 <p> BUSFIN 4221: Investments (Spring 2021) <br>
