@@ -10,7 +10,7 @@ author_profile: True
 <html>
 <body>
 
-<h2> Instructor, Rowan University University </h2>
+<h2> Instructor, Rowan University </h2>
   
 <p> FIN 04300: Principals of Finance (Fall 2023) </p>
 
