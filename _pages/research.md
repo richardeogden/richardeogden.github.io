@@ -12,7 +12,7 @@ author_profile: True
 
 <h2> <a href="/Skewness_Managed_Portfolios_Draft.pdf" download="Ogden_CV">Skewness Managed Portfolios</a> </h2>
   
-<p> Due to positive skewness in the distribution of monthly stock returns, a few stocks play a disproportionally outsized role in the performance of factors. Because skewed stocks can end up in either the long or short leg of the portfolio, their impact depends on how skewness is related to the characteristic used to create the anomaly. Anomalies that long skewed stocks benefit, while those short lose. In a sample of core anomaly strategies, a skewness managed strategy that seeks skewness in the long leg but avoids it in the short leg improves the average return by five to ten percent per year, while limiting downside risk as measured by strategy skewness.</p>
+<p> Due to positive skewness in the distribution of monthly stock returns, a few stocks play a disproportionally outsized role in the performance of factors. Because skewed stocks can end up in either the long or short leg of the portfolio, their impact depends on how skewness is related to the characteristic used to create the anomaly. Anomalies that long skewed stocks benefit, while those short lose. In a sample of anomalies underlying recent factor models, a skewness managed strategy that seeks skewness in the long leg while avoiding it in the short leg improves the average return by five to ten percentage points per year. Factor models fail to price skewness managed versions of their own factors, resulting in alphas that are up to as large as the original anomaly premium. </p>
 
 <h2> <a href="/Ogden%20-%20Demand%20risk%20in%20supply%20factors%20(2020).pdf" download="Ogden_CV">Demand Risk in Supply Factors?</a> </h2>
   
