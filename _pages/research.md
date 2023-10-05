@@ -10,7 +10,7 @@ author_profile: True
 <html>
 <body>
 
-<h2> <a href="/Skewness_Managed_Portoflios_Draft.pdf" download="Ogden_CV">Skewness Managed Portfolios</a> </h2>
+<h2> <a href="/Skewness_Managed_Portfolios_Draft.pdf" download="Ogden_CV">Skewness Managed Portfolios</a> </h2>
   
 <p> Due to positive skewness in the distribution of monthly stock returns, a few stocks play a disproportionally outsized role in the performance of factors. Because skewed stocks can end up in either the long or short leg of the portfolio, their impact depends on how skewness is related to the characteristic used to create the anomaly. Anomalies that long skewed stocks benefit, while those short lose. In a sample of core anomaly strategies, a skewness managed strategy that seeks skewness in the long leg but avoids it in the short leg improves the average return by five to ten percent per year, while limiting downside risk as measured by strategy skewness.</p>
 
