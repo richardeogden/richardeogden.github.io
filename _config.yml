@@ -106,16 +106,19 @@ analytics:
 author:
   name             : "Richard Ogden"
   avatar           : "headshot1_alt.jpg"
-  bio              : "Ph.D. Candidate,\n The Ohio State University"
-  location         : "Columbus, OH"
+  bio              : "Assistant Professor of Finance,\n Rowan University"
+  location         : "Glassboro, NJ"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ogden.116@osu.edu"
+      url: "mailto:ogdenr@rowan.edu"
     - label: "Department Website"
       icon: "fas fa-fw fa-link"
-      url: "https://fisher.osu.edu/people/ogden.116"
+      url: "https://business.rowan.edu/faculty-staff/ogden_faculty.html"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/richard-ogden-0721261ba/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
