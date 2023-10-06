@@ -12,7 +12,7 @@ author_profile: True
 
 <h2> Instructor, Rowan University </h2>
   
-<p> FIN 04300: Principals of Finance (Fall 2023) </p>
+<p> FIN 04300: Principles of Finance (Fall 2023) </p>
 
 <h2> Instructor, The Ohio State University </h2>
   
