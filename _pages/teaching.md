@@ -13,9 +13,9 @@ author_profile: True
 <h2> Instructor, Rowan University </h2>
   
 <p> FIN 04300: Principles of Finance (Fall 2023) <br>
-    Course Evaluations 5/5, 4.8/5 <br></p>
-
-<p> FIN 04300: Principles of Finance (Spring 2023) </p>
+    Course Evaluation Average 4.93/5 <br></p>
+    
+<p> FIN 04425: Financial Derivatives
 
 <h2> Instructor, The Ohio State University </h2>
   
