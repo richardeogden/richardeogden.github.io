@@ -7,12 +7,16 @@ author_profile: True
 
 
 
-<html>
-<body>
+<h2> Teaching and Mentorship Awards </h2>
+
+<p> Department Professor of the Year (2024, 2025) </p>
+    
+<p> RCB Career Catalyst Award (2025) <p>
+
 
 <h2> Instructor, Rowan University </h2>
   
-<p> FIN 04300: Principles of Finance (Fall 2023) <br>
+<p> FIN 04300: Principles of Finance <br>
     Course Evaluation Average 4.93/5 <br></p>
     
 <p> FIN 04425: Financial Derivatives
@@ -31,5 +35,3 @@ author_profile: True
     BUSFIN 4223/7222 Fixed Income (Undergraduate/Graduate)  <br>
     BUSFIN 4224/7226 Behavioral Finance (Undergraduate/Graduate) </p>
   
-</body>
-</html> 

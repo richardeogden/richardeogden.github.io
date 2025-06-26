@@ -7,8 +7,6 @@ author_profile: True
 
 
 
-<html>
-<body>
 
 <h2>Published/Forthcoming</h2>
 
@@ -32,6 +30,3 @@ author_profile: True
 <h3> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135221">Out-of-Sample Alphas Post-Publication</a> (With Andrei Gonçalves and Johnathan Loudis) </h3>
 
 <p> Anomaly strategies generate positive and significant CAPM alphas post-publication. Existing explanations include non-market risks, trading costs, and investment frictions. This paper introduces a complementary and novel channel: when a new anomaly strategy is published, investors face uncertainty in identifying the optimal weight to allocate to the anomaly in order to achieve a positive alpha post-publication, making the strategy less appealing. Empirically, we find that the average post-publication alpha of anomaly strategies is close to zero when optimal weights are estimated out-of-sample using pre-publication data. This finding is robust across specifications, including those using empirical Bayesian shrinkage and machine learning to estimate weights. Conceptually, this suggests investors have little incentive to add a new anomaly strategy to their portfolios. While investors can generate positive out-of-sample alphas by combining multiple anomaly strategies via shrinkage methods, we show the demand from such investors is insufficient to eliminate alphas in equilibrium. </p>
- 
-</body>
-</html>
