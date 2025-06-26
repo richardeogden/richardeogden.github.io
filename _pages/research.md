@@ -11,7 +11,7 @@ author_profile: True
 <h2>Published/Forthcoming</h2>
 
 <h3> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4314686">Bounded Support: Success and Limitations of Liquidity Support During Times of Crisis</a> (With John Lynch) </h3>
-<h4>Forthcoming in Financial Managment<h4>
+<h4>Forthcoming in Financial Managment</h4>
 
 
 <p> Our paper sheds light on the complexity of liquidity injection programs by showing unintended consequences that arise when firm heterogeneity is overlooked. Utilizing firm-level data from the Paycheck Protection Program, we find government lending effectively reduced closures, particularly if received during the first two weeks. However, we find significant heterogeneity in the effectiveness of funds, resulting from broad-brush eligibility guidelines and differences in how firms process information. The implementation relied on the banking system, which exacerbated the distributional effects by favoring firms with stronger customer capital. Our findings highlight the importance of thoughtful liquidity distribution design to maximize its benefits. </p>
