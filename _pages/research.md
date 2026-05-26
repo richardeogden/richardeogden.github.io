@@ -60,4 +60,33 @@ classes: wide
   </div>
 </div>
 
+<h2>Technical Reports</h2>
+
+<div class="paper">
+  <div class="paper-title"><a href="https://www.federalreserve.gov/econresdata/notes/feds-notes/2015/federal-debt-in-the-financial-accounts-of-the-united-states-20151008.html">Federal Debt in the Financial Accounts of the United States</a></div>
+  <div class="paper-authors">with Marco Cagetti, Matthew Hoops, and Susan McIntosh</div>
+  <div class="paper-status">FEDS Notes, October 2015</div>
+  <div class="paper-links">
+    <a href="https://www.federalreserve.gov/econresdata/notes/feds-notes/2015/federal-debt-in-the-financial-accounts-of-the-united-states-20151008.html">FEDS Note</a>
+  </div>
+</div>
+
+<div class="paper">
+  <div class="paper-title"><a href="https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/corporate-equities-by-issuer-in-the-financial-accounts-of-the-united-states-20160329.html">Corporate Equities by Issuer in the Financial Accounts of the United States</a></div>
+  <div class="paper-authors">with Damian R. Thomas and Missaka Warusawitharana</div>
+  <div class="paper-status">FEDS Notes, March 2016</div>
+  <div class="paper-links">
+    <a href="https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/corporate-equities-by-issuer-in-the-financial-accounts-of-the-united-states-20160329.html">FEDS Note</a>
+  </div>
+</div>
+
+<div class="paper">
+  <div class="paper-title"><a href="https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/corporate-bond-issuers-swap-exposure-to-rising-interest-rates-20160526.html">Corporate Bond Issuers' Swap Exposure to Rising Interest Rates</a></div>
+  <div class="paper-authors">with Francisco Palomino, Nitish Sinha, and Youngsuk Yook</div>
+  <div class="paper-status">FEDS Notes, May 2016</div>
+  <div class="paper-links">
+    <a href="https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/corporate-bond-issuers-swap-exposure-to-rising-interest-rates-20160526.html">FEDS Note</a>
+  </div>
+</div>
+
 </div>
