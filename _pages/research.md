@@ -1,11 +1,12 @@
 ---
-layout: archive
+layout: single
 title: "Research"
 permalink: /research/
 author_profile: false
+classes: wide
 ---
 
-<div class="research" markdown="0">
+<div class="research">
 
 <h2>Working Papers</h2>
 
