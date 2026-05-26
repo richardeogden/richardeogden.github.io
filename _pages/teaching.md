@@ -17,6 +17,7 @@ classes: wide
 <div class="paper">
   <div class="paper-title">FIN 04425 · Financial Derivatives</div>
   <div class="paper-authors">Rowan University · Undergraduate</div>
+  <div class="paper-status">Course evaluation: 4.83 / 5</div>
 </div>
 
 <div class="paper">
