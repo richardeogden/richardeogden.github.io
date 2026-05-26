@@ -22,10 +22,8 @@ classes: wide
 
 <div class="paper">
   <div class="paper-title">BUSFIN 4221 · Investments</div>
-  <div class="paper-authors">The Ohio State University · Undergraduate · Spring 2021</div>
+  <div class="paper-authors">The Ohio State University · Undergraduate</div>
   <div class="paper-status">Course evaluation: 4.44 / 5</div>
-  <div class="paper-links">
-    <a href="/syllabus_busfin4221_sp2021.pdf">Syllabus</a>
   </div>
 </div>
 
