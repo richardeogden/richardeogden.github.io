@@ -80,6 +80,35 @@ classes: wide
   </div>
 </div>
 
+<h2>Technical Reports</h2>
+
+<div class="cv-entry">
+  <div class="cv-year">2015</div>
+  <div class="cv-content">
+    <span class="cv-title"><a href="https://www.federalreserve.gov/econresdata/notes/feds-notes/2015/federal-debt-in-the-financial-accounts-of-the-united-states-20151008.html">Federal Debt in the Financial Accounts of the United States</a></span>
+    with Marco Cagetti, Matthew Hoops, and Susan McIntosh<br>
+    <span class="cv-sub">FEDS Notes, October 2015</span>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-year">2016</div>
+  <div class="cv-content">
+    <span class="cv-title"><a href="https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/corporate-equities-by-issuer-in-the-financial-accounts-of-the-united-states-20160329.html">Corporate Equities by Issuer in the Financial Accounts of the United States</a></span>
+    with Damian R. Thomas and Missaka Warusawitharana<br>
+    <span class="cv-sub">FEDS Notes, March 2016</span>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-year">2016</div>
+  <div class="cv-content">
+    <span class="cv-title"><a href="https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/corporate-bond-issuers-swap-exposure-to-rising-interest-rates-20160526.html">Corporate Bond Issuers' Swap Exposure to Rising Interest Rates</a></span>
+    with Francisco Palomino, Nitish Sinha, and Youngsuk Yook<br>
+    <span class="cv-sub">FEDS Notes, May 2016</span>
+  </div>
+</div>
+
 <h2>Employment / Research Positions</h2>
 
 <div class="cv-entry">
