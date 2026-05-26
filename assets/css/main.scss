@@ -68,3 +68,96 @@ search: false
     }
   }
 }
+
+/* ===========================================================
+   Research page — paper entries with collapsible abstracts
+   =========================================================== */
+.research {
+  h2 {
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid #e5e5e5;
+    font-size: 1.25rem;
+    letter-spacing: 0.02em;
+  }
+
+  .paper {
+    margin-bottom: 1.75rem;
+    line-height: 1.55;
+
+    .paper-title {
+      font-size: 1.05rem;
+      font-weight: 600;
+      margin-bottom: 0.15rem;
+
+      a {
+        color: inherit;
+        text-decoration: none;
+        border-bottom: 1px solid transparent;
+        transition: border-color 0.15s ease;
+
+        &:hover {
+          border-bottom-color: #888;
+        }
+      }
+    }
+
+    .paper-authors {
+      color: #555;
+      font-size: 0.95rem;
+      margin-bottom: 0.15rem;
+    }
+
+    .paper-status {
+      font-style: italic;
+      color: #666;
+      font-size: 0.95rem;
+      margin-bottom: 0.4rem;
+    }
+
+    .paper-links {
+      font-size: 0.9rem;
+      margin-bottom: 0.4rem;
+
+      a {
+        margin-right: 0.6rem;
+      }
+    }
+
+    details.paper-abstract {
+      margin-top: 0.25rem;
+      font-size: 0.95rem;
+
+      summary {
+        cursor: pointer;
+        color: #666;
+        font-size: 0.9rem;
+        list-style: none;
+        display: inline-block;
+        user-select: none;
+
+        &::-webkit-details-marker { display: none; }
+
+        &::before {
+          content: "+ ";
+          display: inline-block;
+          width: 1rem;
+          font-weight: 600;
+        }
+
+        &:hover { color: #222; }
+      }
+
+      &[open] summary::before {
+        content: "− ";
+      }
+
+      p {
+        margin: 0.5rem 0 0 0;
+        color: #333;
+        text-align: justify;
+      }
+    }
+  }
+}
