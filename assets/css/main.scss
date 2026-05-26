@@ -74,10 +74,11 @@ search: false
    Selectors are intentionally flat (not nested under .research)
    because kramdown may strip the outer wrapper div.
    =========================================================== */
-/* Soft-card layout inspired by Max Miller's research page */
+/* Soft-card layout — matched to the air skin palette
+   (text #222831 / muted #393e46 / primary #0092ca / bg #eeeeee) */
 .paper {
   background: #ffffff;
-  border: 1px solid #e6e6e3;
+  border: 1px solid #e1e3e5;
   border-radius: 8px;
   padding: 1.1rem 1.4rem;
   margin-bottom: 1rem;
@@ -87,6 +88,7 @@ search: false
 .paper-title {
   font-size: 1.1rem;
   font-weight: 600;
+  color: #222831;
   margin-bottom: 0.3rem;
 }
 
@@ -98,18 +100,18 @@ search: false
 }
 
 .paper-title a:hover {
-  border-bottom-color: #888;
+  border-bottom-color: #0092ca;
 }
 
 .paper-authors {
-  color: #6a6a6a;
+  color: #393e46;
   font-size: 0.95rem;
   margin-bottom: 0.2rem;
 }
 
 .paper-status {
   font-style: italic;
-  color: #8a6d2a;
+  color: #0092ca;
   font-size: 0.95rem;
   margin-bottom: 0.6rem;
 }
@@ -128,17 +130,18 @@ search: false
 .paper-links a {
   display: inline-block;
   padding: 4px 14px;
-  background: #f1efe9;
-  color: #3a3a37;
+  background: #ececec;
+  color: #393e46;
   border-radius: 999px;
   text-decoration: none;
   border: 1px solid transparent;
-  transition: background 0.15s ease, border-color 0.15s ease;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
 
 .paper-links a:hover {
-  background: #e8e5dd;
-  border-color: #d6d2c7;
+  background: #e0e2e4;
+  border-color: #cfd1d3;
+  color: #222831;
 }
 
 /* Abstract toggle styled as an outlined pill, sitting in the same
@@ -159,12 +162,12 @@ details.paper-abstract > summary {
   list-style: none;
   user-select: none;
   padding: 4px 14px;
-  border: 1px solid #d6d2c7;
+  border: 1px solid #cfd1d3;
   border-radius: 999px;
   background: transparent;
-  color: #4a4a47;
+  color: #393e46;
   font-size: 0;
-  transition: background 0.15s ease;
+  transition: background 0.15s ease, color 0.15s ease;
 }
 
 details.paper-abstract > summary::-webkit-details-marker {
@@ -186,12 +189,13 @@ details.paper-abstract[open] > summary::before {
 }
 
 details.paper-abstract > summary:hover {
-  background: #f1efe9;
+  background: #ececec;
+  color: #222831;
 }
 
 details.paper-abstract p {
   margin: 0.85rem 0 0 0;
-  color: #333;
+  color: #222831;
   font-size: 0.95rem;
   line-height: 1.6;
 }
