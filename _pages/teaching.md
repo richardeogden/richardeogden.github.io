@@ -1,37 +1,54 @@
 ---
-layout: archive
+layout: single
 title: "Teaching"
 permalink: /teaching/
-author_profile: True
+author_profile: false
+classes: wide
 ---
 
+<h2>Courses Taught</h2>
 
+<div class="paper">
+  <div class="paper-title">FIN 04300 · Principles of Finance</div>
+  <div class="paper-authors">Rowan University · Undergraduate</div>
+  <div class="paper-status">Course evaluation: 4.93 / 5</div>
+</div>
 
-<h2> Teaching and Mentorship Awards </h2>
+<div class="paper">
+  <div class="paper-title">FIN 04425 · Financial Derivatives</div>
+  <div class="paper-authors">Rowan University · Undergraduate</div>
+</div>
 
-<p> Department Professor of the Year (2024, 2025) </p>
-    
-<p> RCB Career Catalyst Award (2025) <p>
+<div class="paper">
+  <div class="paper-title">BUSFIN 4221 · Investments</div>
+  <div class="paper-authors">The Ohio State University · Undergraduate · Spring 2021</div>
+  <div class="paper-status">Course evaluation: 4.44 / 5</div>
+  <div class="paper-links">
+    <a href="/syllabus_busfin4221_sp2021.pdf">Syllabus</a>
+  </div>
+</div>
 
+<h2>Teaching Assistant</h2>
 
-<h2> Instructor, Rowan University </h2>
-  
-<p> FIN 04300: Principles of Finance <br>
-    Course Evaluation Average 4.93/5 <br></p>
-    
-<p> FIN 04425: Financial Derivatives
+<p class="ta-intro">The Ohio State University, Fisher College of Business</p>
 
-<h2> Instructor, The Ohio State University </h2>
-  
-<p> BUSFIN 4221: Investments (Spring 2021) <br>
-    Course Evaluation 4.44/5 <br>
-    </p>
+<ul class="ta-list">
+  <li>BUSFIN 4211 · Corporate Finance (Undergraduate)</li>
+  <li>BUSFIN 4265 / 7260 · Financial Institutions (Undergraduate / Graduate)</li>
+  <li>BUSFIN 4234 / 7264 · FinTech (Undergraduate / Graduate)</li>
+  <li>BUSFIN 4223 / 7222 · Fixed Income (Undergraduate / Graduate)</li>
+  <li>BUSFIN 4224 / 7226 · Behavioral Finance (Undergraduate / Graduate)</li>
+</ul>
 
-<h2> Teaching Assistant, The Ohio State University </h2>
-  
-<p> BUSFIN 4211: Corporate Finance (Undergraduate) <br>
-    BUSFIN 4265/7260: Financial Institutions (Undergraduate/Graduate) <br>
-    BUSFIN 4234/7264: FinTech (Undergraduate/Graduate) <br>
-    BUSFIN 4223/7222 Fixed Income (Undergraduate/Graduate)  <br>
-    BUSFIN 4224/7226 Behavioral Finance (Undergraduate/Graduate) </p>
-  
+<h2>Awards</h2>
+
+<div class="award-list">
+  <div class="award-entry">
+    <div class="award-year">2024, 2025</div>
+    <div class="award-name">Department Professor of the Year</div>
+  </div>
+  <div class="award-entry">
+    <div class="award-year">2025</div>
+    <div class="award-name">RCB Career Catalyst Award</div>
+  </div>
+</div>

@@ -199,3 +199,67 @@ details.paper-abstract p {
   font-size: 0.95rem;
   line-height: 1.6;
 }
+
+/* ===========================================================
+   Teaching page — TA list and awards
+   =========================================================== */
+.ta-intro {
+  color: #393e46;
+  margin: 0 0 0.5rem;
+}
+
+ul.ta-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1rem;
+
+  li {
+    padding: 0.4rem 0;
+    border-bottom: 1px solid #e1e3e5;
+    color: #222831;
+    font-size: 0.95rem;
+
+    &:last-child {
+      border-bottom: 0;
+    }
+  }
+}
+
+.award-list {
+  margin: 0 0 1rem;
+}
+
+.award-entry {
+  display: flex;
+  gap: 1.5rem;
+  padding: 0.4rem 0;
+  border-bottom: 1px solid #e1e3e5;
+  align-items: baseline;
+
+  &:last-child {
+    border-bottom: 0;
+  }
+
+  .award-year {
+    flex: 0 0 7rem;
+    font-weight: 600;
+    color: #393e46;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .award-name {
+    flex: 1;
+    color: #222831;
+  }
+}
+
+@media (max-width: 600px) {
+  .award-entry {
+    flex-direction: column;
+    gap: 0.1rem;
+
+    .award-year {
+      flex: none;
+    }
+  }
+}
