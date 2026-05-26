@@ -7,3 +7,64 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* ===========================================================
+   CV page layout — year on left, content on right
+   =========================================================== */
+.cv {
+  h2 {
+    margin-top: 2.25rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid #e5e5e5;
+    font-size: 1.25rem;
+    letter-spacing: 0.02em;
+  }
+
+  .cv-entry {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 1rem;
+    line-height: 1.5;
+
+    .cv-year {
+      flex: 0 0 6rem;
+      font-weight: 600;
+      color: #666;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .cv-content {
+      flex: 1;
+      min-width: 0;
+
+      .cv-title {
+        font-weight: 600;
+      }
+
+      .cv-sub {
+        font-style: italic;
+        color: #555;
+      }
+
+      p {
+        margin: 0 0 0.35rem 0;
+      }
+    }
+  }
+
+  .cv-download {
+    margin-bottom: 2rem;
+    font-size: 0.95rem;
+  }
+
+  @media (max-width: 600px) {
+    .cv-entry {
+      flex-direction: column;
+      gap: 0.15rem;
+
+      .cv-year {
+        flex: none;
+      }
+    }
+  }
+}

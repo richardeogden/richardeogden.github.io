@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,7 +20,7 @@ title                    : "Richard Ogden"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Richard Ogden"
-description              : #"An amazing website."
+description              : "Richard Ogden — Assistant Professor of Finance at Rowan University. Research on empirical asset pricing, return skewness, and anomalies."
 url                      : "https://richardeogden.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "richardeogden/richardeogden.github.io"
@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Richard Ogden"
-  avatar           : "headshot1_alt.jpg"
-  bio              : "Assistant Professor of Finance, \n Rowan University"
+  avatar           : "headshot_2023.jpg"
+  bio              : "Assistant Professor of Finance<br>Rowan University"
   location         : "Glassboro, NJ"
   email            :
   links:
