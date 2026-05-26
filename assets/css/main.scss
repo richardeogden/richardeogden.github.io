@@ -74,21 +74,20 @@ search: false
    Selectors are intentionally flat (not nested under .research)
    because kramdown may strip the outer wrapper div.
    =========================================================== */
+/* Soft-card layout inspired by Max Miller's research page */
 .paper {
-  margin-bottom: 2.25rem;
-  padding-bottom: 1rem;
+  background: #ffffff;
+  border: 1px solid #e6e6e3;
+  border-radius: 8px;
+  padding: 1.1rem 1.4rem;
+  margin-bottom: 1rem;
   line-height: 1.55;
-}
-
-.paper + .paper {
-  border-top: 1px solid #eee;
-  padding-top: 1.25rem;
 }
 
 .paper-title {
   font-size: 1.1rem;
   font-weight: 600;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.3rem;
 }
 
 .paper-title a {
@@ -103,39 +102,69 @@ search: false
 }
 
 .paper-authors {
-  color: #555;
+  color: #6a6a6a;
   font-size: 0.95rem;
   margin-bottom: 0.2rem;
 }
 
 .paper-status {
   font-style: italic;
-  color: #666;
+  color: #8a6d2a;
   font-size: 0.95rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.6rem;
 }
 
+/* Pill-button action links */
 .paper-links {
-  font-size: 0.9rem;
-  margin-bottom: 0.5rem;
+  margin-top: 0.6rem;
+  margin-bottom: 0;
+  font-size: 0.85rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
 }
 
 .paper-links a {
-  margin-right: 0.75rem;
+  display: inline-block;
+  padding: 4px 14px;
+  background: #f1efe9;
+  color: #3a3a37;
+  border-radius: 999px;
+  text-decoration: none;
+  border: 1px solid transparent;
+  transition: background 0.15s ease, border-color 0.15s ease;
 }
 
+.paper-links a:hover {
+  background: #e8e5dd;
+  border-color: #d6d2c7;
+}
+
+/* Abstract toggle styled as an outlined pill, sitting in the same
+   flex row as the action links. When open, it forces a new row so
+   the abstract paragraph can use the full width of the card. */
 details.paper-abstract {
-  margin-top: 0.4rem;
   font-size: 0.95rem;
+  flex: 0 0 auto;
+}
+
+details.paper-abstract[open] {
+  flex: 0 0 100%;
 }
 
 details.paper-abstract > summary {
   cursor: pointer;
-  color: #555;
-  font-size: 0.9rem;
   display: inline-block;
   list-style: none;
   user-select: none;
+  padding: 4px 14px;
+  border: 1px solid #d6d2c7;
+  border-radius: 999px;
+  background: transparent;
+  color: #4a4a47;
+  font-size: 0;
+  transition: background 0.15s ease;
 }
 
 details.paper-abstract > summary::-webkit-details-marker {
@@ -148,28 +177,21 @@ details.paper-abstract > summary::marker {
 }
 
 details.paper-abstract > summary::before {
-  content: "▸ Show abstract";
+  content: "+ Abstract";
+  font-size: 0.85rem;
 }
 
 details.paper-abstract[open] > summary::before {
-  content: "▾ Hide abstract";
-}
-
-/* Hide the literal "Abstract" text node inside summary
-   so only our ::before label shows */
-details.paper-abstract > summary {
-  font-size: 0;
-}
-
-details.paper-abstract > summary::before {
-  font-size: 0.9rem;
+  content: "− Abstract";
 }
 
 details.paper-abstract > summary:hover {
-  color: #222;
+  background: #f1efe9;
 }
 
 details.paper-abstract p {
-  margin: 0.5rem 0 0 0;
+  margin: 0.85rem 0 0 0;
   color: #333;
+  font-size: 0.95rem;
+  line-height: 1.6;
 }
