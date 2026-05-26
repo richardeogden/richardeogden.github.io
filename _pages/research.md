@@ -49,8 +49,9 @@ classes: wide
 <div class="paper">
   <div class="paper-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4314686">Bounded Support: Success and Limitations of Liquidity Support During Times of Crisis</a></div>
   <div class="paper-authors">with <a href="https://sites.google.com/view/john-lynch/home">John Lynch</a></div>
-  <div class="paper-status"><em>Financial Management</em> (Forthcoming)</div>
+  <div class="paper-status"><em>Financial Management</em> 54 (2025): 363–418</div>
   <div class="paper-links">
+    <a href="https://doi.org/10.1111/fima.12485">Published Version</a>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4314686">SSRN</a>
     <details class="paper-abstract">
       <summary>Abstract</summary>

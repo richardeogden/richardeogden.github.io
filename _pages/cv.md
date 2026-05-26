@@ -45,11 +45,11 @@ classes: wide
 <h2>Published and Forthcoming</h2>
 
 <div class="cv-entry">
-  <div class="cv-year">Forthcoming</div>
+  <div class="cv-year">2025</div>
   <div class="cv-content">
-    <span class="cv-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4314686">Bounded Support: Success and Limitations of Liquidity Support During Times of Crisis</a></span>
+    <span class="cv-title"><a href="https://doi.org/10.1111/fima.12485">Bounded Support: Success and Limitations of Liquidity Support During Times of Crisis</a></span>
     with John Lynch<br>
-    <span class="cv-sub">Financial Management</span>
+    <span class="cv-sub">Financial Management 54: 363–418</span>
   </div>
 </div>
 
@@ -142,6 +142,6 @@ classes: wide
   <div class="cv-content">RCB Career Catalyst Award</div>
 </div>
 
-<p style="margin-top: 2.5rem; font-size: 0.85rem; color: #999;">Last updated: 02/12/2025</p>
+<p style="margin-top: 2.5rem; font-size: 0.85rem; color: #999;">Last updated: 05/26/2026</p>
 
 </div>
