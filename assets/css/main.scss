@@ -8,6 +8,15 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* Hide the default chain-link icons in the sidebar links.
+   The location pin (.author__location) is separate and stays visible. */
+.author__urls li i.fa,
+.author__urls li i.fab,
+.author__urls li i.fas,
+.author__urls li svg {
+  display: none;
+}
+
 /* ===========================================================
    CV page layout — year on left, content on right
    =========================================================== */
