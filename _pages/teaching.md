@@ -24,7 +24,6 @@ classes: wide
   <div class="paper-title">BUSFIN 4221 · Investments</div>
   <div class="paper-authors">The Ohio State University · Undergraduate</div>
   <div class="paper-status">Course evaluation: 4.44 / 5</div>
-  </div>
 </div>
 
 <h2>Teaching Assistant</h2>
