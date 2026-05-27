@@ -60,6 +60,17 @@ classes: wide
   </div>
 </div>
 
+<h2>Other Publications</h2>
+
+<div class="paper">
+  <div class="paper-title"><a href="https://doi.org/10.1016/j.eap.2017.03.004">A Day Late and a Dollar Short: The Effect of Policy Uncertainty on Fed Forecast Errors</a></div>
+  <div class="paper-authors">with <a href="https://www.linkedin.com/in/adam-jones-7a132b3/">Adam T. Jones</a></div>
+  <div class="paper-status"><em>Economic Analysis and Policy</em> 54 (2017): 112–122</div>
+  <div class="paper-links">
+    <a href="https://doi.org/10.1016/j.eap.2017.03.004">Published Version</a>
+  </div>
+</div>
+
 <h2>Technical Reports</h2>
 
 <div class="paper">

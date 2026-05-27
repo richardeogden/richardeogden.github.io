@@ -80,6 +80,17 @@ classes: wide
   </div>
 </div>
 
+<h2>Other Publications</h2>
+
+<div class="cv-entry">
+  <div class="cv-year">2017</div>
+  <div class="cv-content">
+    <span class="cv-title"><a href="https://doi.org/10.1016/j.eap.2017.03.004">A Day Late and a Dollar Short: The Effect of Policy Uncertainty on Fed Forecast Errors</a></span>
+    with <a href="https://www.linkedin.com/in/adam-jones-7a132b3/">Adam T. Jones</a><br>
+    <span class="cv-sub">Economic Analysis and Policy 54: 112–122</span>
+  </div>
+</div>
+
 <h2>Technical Reports</h2>
 
 <div class="cv-entry">
