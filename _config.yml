@@ -111,26 +111,15 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ogdenr@rowan.edu"
     - label: "Department Website"
-      icon: "fas fa-fw fa-link"
       url: "https://business.rowan.edu/faculty-staff/ogden_faculty.html"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=3IFheYAAAAAJ&hl=en"
+    - label: "SSRN"
+      url: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6543567"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/richard-ogden-0721261ba/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
