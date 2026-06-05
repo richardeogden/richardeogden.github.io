@@ -76,7 +76,7 @@ classes: wide
   <div class="cv-content">
     <span class="cv-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135221">Out-of-Sample Alphas Post-Publication</a></span>
     with Andrei Gonçalves and Johnathan Loudis<br>
-    <span class="cv-sub">Conferences: ASU Sonoran Winter Finance Conference (2025), International Behavioural Finance Conference at Chicago Booth (2025)</span>
+    <span class="cv-sub">Conferences: ASU Sonoran Winter Finance Conference (2025), International Behavioural Finance Conference at Chicago Booth (2025), Northern Finance Association Meeting (2026)</span>
   </div>
 </div>
 
