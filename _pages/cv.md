@@ -53,6 +53,15 @@ classes: wide
   </div>
 </div>
 
+<div class="cv-entry">
+  <div class="cv-year">2017</div>
+  <div class="cv-content">
+    <span class="cv-title"><a href="https://doi.org/10.1016/j.eap.2017.03.004">A Day Late and a Dollar Short: The Effect of Policy Uncertainty on Fed Forecast Errors</a></span>
+    with <a href="https://www.linkedin.com/in/adam-jones-7a132b3/">Adam T. Jones</a><br>
+    <span class="cv-sub">Economic Analysis and Policy 54: 112–122</span>
+  </div>
+</div>
+
 <h2>Working Papers</h2>
 
 <div class="cv-entry">
@@ -77,17 +86,6 @@ classes: wide
     <span class="cv-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135221">Out-of-Sample Alphas Post-Publication</a></span>
     with Andrei Gonçalves and Johnathan Loudis<br>
     <span class="cv-sub">Conferences: ASU Sonoran Winter Finance Conference (2025), International Behavioural Finance Conference at Chicago Booth (2025), Northern Finance Association Meeting (2026)</span>
-  </div>
-</div>
-
-<h2>Other Publications</h2>
-
-<div class="cv-entry">
-  <div class="cv-year">2017</div>
-  <div class="cv-content">
-    <span class="cv-title"><a href="https://doi.org/10.1016/j.eap.2017.03.004">A Day Late and a Dollar Short: The Effect of Policy Uncertainty on Fed Forecast Errors</a></span>
-    with <a href="https://www.linkedin.com/in/adam-jones-7a132b3/">Adam T. Jones</a><br>
-    <span class="cv-sub">Economic Analysis and Policy 54: 112–122</span>
   </div>
 </div>
 
