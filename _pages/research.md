@@ -15,7 +15,7 @@ classes: wide
   <div class="paper-authors">with <a href="https://sites.google.com/view/john-lynch/home">John Lynch</a> and <a href="https://www.linkedin.com/in/rui-gong-a35a5663/">Rui Gong</a></div>
   <div class="paper-links">
     <a href="/Skewness_Managed_Portfolios.pdf">PDF</a>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6913978">SSRN</a>
+    <a href="https://ssrn.com/abstract=6913978">SSRN</a>
     <details class="paper-abstract">
       <summary>Abstract</summary>
       <p>Due to positive skewness in the distribution of monthly stock returns, a few stocks play a disproportionally outsized role in the performance of factors. Because skewed stocks can end up in either the long or short leg of the portfolio, their impact depends on how skewness is related to the characteristic used to create the anomaly. Anomalies that long skewed stocks benefit, while those short lose. In a sample of anomalies underlying recent factor models, a skewness managed strategy that seeks skewness in the long leg while avoiding it in the short leg improves the average return by five to ten percentage points per year. Factor models fail to price skewness managed versions of their own factors, resulting in alphas that are up to as large as the original anomaly premium.</p>
@@ -27,7 +27,7 @@ classes: wide
   <div class="paper-title">Out-of-Sample Alphas Post-Publication</div>
   <div class="paper-authors">with <a href="https://andreigoncalves.com/">Andrei Gonçalves</a> and <a href="https://sites.google.com/view/johnathan-a-loudis/home">Johnathan Loudis</a></div>
   <div class="paper-links">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135221">SSRN</a>
+    <a href="https://ssrn.com/abstract=5135221">SSRN</a>
     <details class="paper-abstract">
       <summary>Abstract</summary>
       <p>Anomaly strategies generate positive and significant CAPM alphas post-publication. Existing explanations include non-market risks, trading costs, and investment frictions. This paper introduces a complementary channel: when a new anomaly strategy is published, investors face uncertainty in identifying the optimal weight to allocate to the anomaly in order to achieve a positive alpha post-publication, making the strategy less appealing. Empirically, we find that the average post-publication alpha of anomaly strategies is close to zero when optimal weights are estimated out-of-sample using pre-publication data. This finding is robust across specifications, including those using empirical Bayesian shrinkage and machine learning to estimate weights. Conceptually, this suggests investors have little incentive to add a new anomaly strategy to their portfolios. While investors can generate positive out-of-sample alphas by combining multiple anomaly strategies via shrinkage methods, we show the demand from such investors is insufficient to eliminate alphas in equilibrium.</p>
@@ -48,12 +48,12 @@ classes: wide
 <h2>Published and Forthcoming</h2>
 
 <div class="paper">
-  <div class="paper-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4314686">Bounded Support: Success and Limitations of Liquidity Support During Times of Crisis</a></div>
+  <div class="paper-title"><a href="https://ssrn.com/abstract=4314686">Bounded Support: Success and Limitations of Liquidity Support During Times of Crisis</a></div>
   <div class="paper-authors">with <a href="https://sites.google.com/view/john-lynch/home">John Lynch</a></div>
   <div class="paper-status"><em>Financial Management</em> 54 (2025): 363–418</div>
   <div class="paper-links">
     <a href="https://doi.org/10.1111/fima.12485">Published Version</a>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4314686">SSRN</a>
+    <a href="https://ssrn.com/abstract=4314686">SSRN</a>
     <details class="paper-abstract">
       <summary>Abstract</summary>
       <p>Our paper sheds light on the complexity of liquidity injection programs by showing unintended consequences that arise when firm heterogeneity is overlooked. Utilizing firm-level data from the Paycheck Protection Program, we find government lending effectively reduced closures, particularly if received during the first two weeks. However, we find significant heterogeneity in the effectiveness of funds, resulting from broad-brush eligibility guidelines and differences in how firms process information. The implementation relied on the banking system, which exacerbated the distributional effects by favoring firms with stronger customer capital. Our findings highlight the importance of thoughtful liquidity distribution design to maximize its benefits.</p>
