@@ -11,10 +11,9 @@ classes: wide
 <h2>Working Papers</h2>
 
 <div class="paper">
-  <div class="paper-title"><a href="/Skewness_Managed_Portfolios.pdf">Skewness Managed Portfolios</a></div>
+  <div class="paper-title"><a href="https://ssrn.com/abstract=6913978">Skewness Managed Portfolios</a></div>
   <div class="paper-authors">with <a href="https://sites.google.com/view/john-lynch/home">John Lynch</a> and <a href="https://www.linkedin.com/in/rui-gong-a35a5663/">Rui Gong</a></div>
   <div class="paper-links">
-    <a href="/Skewness_Managed_Portfolios.pdf">PDF</a>
     <a href="https://ssrn.com/abstract=6913978">SSRN</a>
     <details class="paper-abstract">
       <summary>Abstract</summary>
