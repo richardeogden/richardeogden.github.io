@@ -67,7 +67,7 @@ classes: wide
 <div class="cv-entry">
   <div class="cv-year"></div>
   <div class="cv-content">
-    <span class="cv-title"><a href="/Skewness_Managed_Portfolios.pdf">Skewness Managed Portfolios</a></span>
+    <span class="cv-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6913978">Skewness Managed Portfolios</a></span>
     with John Lynch and Rui Gong<br>
     <span class="cv-sub">Conferences: FMA (2023)</span>
   </div>

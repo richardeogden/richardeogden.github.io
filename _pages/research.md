@@ -15,6 +15,7 @@ classes: wide
   <div class="paper-authors">with <a href="https://sites.google.com/view/john-lynch/home">John Lynch</a> and <a href="https://www.linkedin.com/in/rui-gong-a35a5663/">Rui Gong</a></div>
   <div class="paper-links">
     <a href="/Skewness_Managed_Portfolios.pdf">PDF</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6913978">SSRN</a>
     <details class="paper-abstract">
       <summary>Abstract</summary>
       <p>Due to positive skewness in the distribution of monthly stock returns, a few stocks play a disproportionally outsized role in the performance of factors. Because skewed stocks can end up in either the long or short leg of the portfolio, their impact depends on how skewness is related to the characteristic used to create the anomaly. Anomalies that long skewed stocks benefit, while those short lose. In a sample of anomalies underlying recent factor models, a skewness managed strategy that seeks skewness in the long leg while avoiding it in the short leg improves the average return by five to ten percentage points per year. Factor models fail to price skewness managed versions of their own factors, resulting in alphas that are up to as large as the original anomaly premium.</p>
