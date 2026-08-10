@@ -15,6 +15,7 @@ classes: wide
   <div class="paper-authors">with <a href="https://sites.google.com/view/john-lynch/home">John Lynch</a> and <a href="https://www.linkedin.com/in/rui-gong-a35a5663/">Rui Gong</a></div>
   <div class="paper-links">
     <a href="https://ssrn.com/abstract=6913978">SSRN</a>
+    <a href="https://alphaarchitect.com/anomaly-returns/" target="_blank" rel="noopener">Media: Alpha Architect</a>
     <details class="paper-abstract">
       <summary>Abstract</summary>
       <p>We show that the returns to many prominent cross-sectional anomalies are driven by a small number of extreme, positively skewed stock returns. Consistent with this, we propose a skewness-managed strategy that predicts ex-ante skewness using firm characteristics and modifies each anomaly portfolio by selecting high-skewness stocks in the long leg and low-skewness stocks in the short leg. Applied to 18 well-known anomalies, the strategy improves returns by an average of 5.45 percentage points, with gains concentrated in periods of economic and financial stress. Sharpe ratios also increase consistently, with an average gain of 0.12. Despite closely tracking the original factors, these skewness-managed portfolios deliver significant alphas even relative to models constructed from the same characteristics, suggesting that modern asset pricing models may systematically overlook higher-order moments.</p>
