@@ -24,13 +24,13 @@ classes: wide
 </div>
 
 <div class="paper">
-  <div class="paper-title">Out-of-Sample Alphas Post-Publication</div>
+  <div class="paper-title"><a href="https://ssrn.com/abstract=5135221">Real Time Investor Alphas and the Survival of the Anomaly Zoo</a></div>
   <div class="paper-authors">with <a href="https://andreigoncalves.com/">Andrei Gonçalves</a> and <a href="https://sites.google.com/view/johnathan-a-loudis/home">Johnathan Loudis</a></div>
   <div class="paper-links">
     <a href="https://ssrn.com/abstract=5135221">SSRN</a>
     <details class="paper-abstract">
       <summary>Abstract</summary>
-      <p>Anomaly strategies generate positive and significant CAPM alphas post-publication. Existing explanations include non-market risks, trading costs, and investment frictions. This paper introduces a complementary channel: when a new anomaly strategy is published, investors face uncertainty in identifying the optimal weight to allocate to the anomaly in order to achieve a positive alpha post-publication, making the strategy less appealing. Empirically, we find that the average post-publication alpha of anomaly strategies is close to zero when optimal weights are estimated out-of-sample using pre-publication data. This finding is robust across specifications, including those using empirical Bayesian shrinkage and machine learning to estimate weights. Conceptually, this suggests investors have little incentive to add a new anomaly strategy to their portfolios. While investors can generate positive out-of-sample alphas by combining multiple anomaly strategies via shrinkage methods, we show the demand from such investors is insufficient to eliminate alphas in equilibrium.</p>
+      <p>Anomaly strategies generate positive and significant CAPM alphas even after becoming public information. Common explanations emphasize non-market risks, trading costs, and investment frictions. This paper introduces a complementary channel: allocation uncertainty. Investors who learn about an anomaly remain uncertain about the optimal weight for combining it with the market portfolio, making its future factor regression alpha unattainable. We introduce the real time investor alpha, which measures the Sharpe ratio improvement from adding an anomaly to the market portfolio using weights estimated in real time. Empirically, anomalies retain positive factor regression alphas after publication, but their average real time investor alpha is close to zero. Investors can profitably combine multiple anomalies, but only with shrinkage. We show theoretically that this uncertainty-induced shrinkage makes investors trade less aggressively than full information investors, allowing CAPM alphas to survive in equilibrium. This model explains 15% to 30% of the cross-sectional variation in anomaly alphas.</p>
     </details>
   </div>
 </div>
