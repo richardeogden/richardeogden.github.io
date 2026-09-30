@@ -85,7 +85,7 @@ classes: wide
   <div class="cv-content">
     <span class="cv-title"><a href="https://ssrn.com/abstract=5135221">Real Time Investor Alphas and the Survival of the Anomaly Zoo</a></span>
     with Andrei Gonçalves and Johnathan Loudis<br>
-    <span class="cv-sub">Conferences: ASU Sonoran Winter Finance Conference (2025), International Behavioural Finance Conference at Chicago Booth (2025), Northern Finance Association Meeting (2026), Annual Valuation Workshop (2026)</span>
+    <span class="cv-sub">Conferences: Annual Valuation Workshop (2026), Northern Finance Association (NFA) Meeting (2026), ASU Sonoran Winter Finance Conference (2025), International Behavioural Finance Conference at Chicago Booth (2025)</span>
   </div>
 </div>
 
